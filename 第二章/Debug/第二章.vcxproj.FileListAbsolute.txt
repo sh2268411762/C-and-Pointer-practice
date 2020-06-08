@@ -1,0 +1,2 @@
+D:\git Code\C-and-Pointer-practice\第二章\Debug\第二章.exe
+D:\git Code\C-and-Pointer-practice\第二章\Debug\第二章.pdb
